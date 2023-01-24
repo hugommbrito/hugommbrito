@@ -6,13 +6,25 @@
 <h3><a href="https://www.instagram.com/hugommbrito/" target="_brank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_brank"/></a> => If you want to know me personaly.</h3>
 <h3><a href="https://api.whatsapp.com/send?phone=5583981893971" target="_brank" ><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_brank"/></a> => If you just want to chat.</h3>
 
---
+##
 <div>
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<!--     <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="40px" src="" />
+    <img height="40px" src="" />
+    <img height="40px" src="" />
+    <img height="40px" src="" />
+    <img height="40px" src="" /> -->
 
-            <i class="devicon-javascript-plain"></i>
-          
-  <img alt="JS-Logo" src="https://icons8.com/icon/108784/javascript" /> 
 </div>
+
 
 <!--
 **hugommbrito/hugommbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
